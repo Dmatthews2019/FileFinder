@@ -20,5 +20,5 @@ replace
 with
     generate-Page
     
-essentially just remove the condition statement
+essentially just remove the condition statement around generate-Page
 
